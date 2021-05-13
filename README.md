@@ -3,7 +3,7 @@
 
 [YouTube](https://www.youtube.com/watch?v=rGaewqvSX7Y)
 <p align="center">
-  
+  <img src=AudioVisualiserGif.gif>
 </p>
 
 Based on the [Dev Enabled](https://www.youtube.com/channel/UCL1jcpKRApOp_CkW9LkFRKA) YouTube tutorials: 
