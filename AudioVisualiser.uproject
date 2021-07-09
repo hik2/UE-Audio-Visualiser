@@ -1,11 +1,24 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.26",
+	"EngineAssociation": "5.0EA",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
 		{
 			"Name": "SoundVisualizations",
+			"Enabled": true
+		},
+		{
+			"Name": "Bridge",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Mac",
+				"Linux"
+			]
+		},
+		{
+			"Name": "Text3D",
 			"Enabled": true
 		}
 	]
