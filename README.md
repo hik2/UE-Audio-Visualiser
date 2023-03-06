@@ -1,7 +1,8 @@
-# Audio-Visualiser
+# Unreal Engine 4 & 5 Audio Visualiser
+* Real-time dynamic cube formation that changes size and colour based on the audio input that is being played at runtime.
 * Updated for UE5. Orignally built for UE4 4.26.2
 
-[YouTube](https://www.youtube.com/watch?v=rGaewqvSX7Y)
+[Full YouTube Video](https://www.youtube.com/watch?v=rGaewqvSX7Y)
 <p align="center">
   <img src=AudioVisualiserGif.gif>
 </p>
